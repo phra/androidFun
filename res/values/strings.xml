@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fun</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section4">da fuck</string>
+    <string name="buttonText">goto google!</string>
+    <string name="buttonText2">make notification!</string>
+    <string name="dummy">dummy fragment</string>
+
+</resources>
